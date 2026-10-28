@@ -7,5 +7,3 @@ simple intrest
 
 
 
-
-

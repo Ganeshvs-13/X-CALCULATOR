@@ -5,5 +5,3 @@ simple intrest
 
 
 
-
-

@@ -3,6 +3,3 @@ simple intrest
 
 
 
-
-
-

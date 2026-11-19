@@ -4,4 +4,3 @@ simple interest
 
 
 
-

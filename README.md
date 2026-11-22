@@ -8,6 +8,3 @@ simple interest
 
 
 
-
-
-

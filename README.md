@@ -7,10 +7,3 @@ simple interest
 
 
 
-
-
-
-
-
-
-
